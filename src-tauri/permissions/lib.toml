@@ -1,0 +1,4 @@
+[[permission]]
+identifier = "allow-finalize-and-type"
+description = "Allows the frontend to call the finalize_and_type command"
+commands.allow = ["finalize_and_type"]

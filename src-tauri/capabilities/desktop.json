@@ -1,0 +1,15 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "main-capability",
+  "description": "Wispr Clone Capability",
+  "windows": ["main"],
+  "permissions": [
+    "core:default",
+    "opener:default",
+    "global-shortcut:default",
+    "core:event:default",
+    "dialog:default",
+    "fs:default",
+    "allow-finalize-and-type"
+  ]
+}
