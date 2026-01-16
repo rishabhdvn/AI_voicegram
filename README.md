@@ -1,4 +1,4 @@
-# 🎙️ AI Voicegram
+# 🎙️ AI Voicegram 
 
 AI Voicegram is a lightweight voice–to–text transcription app powered by AI.  
 Record audio, transcribe it instantly, and generate clean text you can save, share, or reuse.
